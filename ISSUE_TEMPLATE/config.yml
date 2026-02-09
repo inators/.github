@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions & Support
+    url: https://github.com/orgs/inators/discussions/categories/q-a
+    about: Ask questions and get help from the community
+  - name: Feature Ideas
+    url: https://github.com/orgs/inators/discussions/categories/ideas
+    about: Suggest and discuss new feature ideas
